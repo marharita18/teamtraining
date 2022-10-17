@@ -1,6 +1,5 @@
 <?php
 
-use \Model;
 class Controller
 {
     const DEFAULT_TEMPLATE = 'template.php';
